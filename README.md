@@ -48,6 +48,3 @@ To run the notebooks in this repository, you will need:
 - **Data Engineering**: Feature scaling, Dimensionality Reduction (PCA, t-SNE).
 - **Analysis**: Exploratory Data Analysis (EDA), Hyperparameter Tuning, Feature Importance analysis.
 
----
-
-*This repository is maintained by [NividDesai](https://github.com/NividDesai).*
